@@ -1,0 +1,2 @@
+# graphqlSimpleExample
+npm run start
